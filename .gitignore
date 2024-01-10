@@ -144,3 +144,6 @@ dmypy.json
 
 # multiple virtualenvs
 virtualenvs/
+
+# qdrant
+practice/qdrant_storage
